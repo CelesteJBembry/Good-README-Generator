@@ -1,23 +1,14 @@
 
-
-    // if (response.confirm === response.password) {
-    //   console.log("Success!");
-    // }
-    // else {
-    //   console.log("You forgot your password already?!");
-    // }
-
-
-
 ## Unit 09 Node.js and ES6+ Homework: Good README Generator
 
-##Description: 
+**##Description:** 
+
 When creating an open source project on GitHub, it is important to have a quality README with information about the app--what is the app for, how to use the app, how to install it, how to report issues, and how to make contributions so that other developers are more likely to use and contribute to the success of the project. A command-line application will allow for quick and easy generation of a project README to get started quickly. This will allow a project creator to spend more time working on finishing the project and less time creating a good README.
 GIVEN the developer has a GitHub profile and a repository
 WHEN prompted for the developer's GitHub username and repo specific information
 THEN a README for the repo is generated
 
-##Table of Contents
+**##Table of Contents**
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -26,22 +17,25 @@ THEN a README for the repo is generated
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
-  * User GitHub profile picture
-  * User GitHub email
+  - User GitHub profile picture
+  - User GitHub email
 
-##Installation
+**##Installation**
 
-*Install and Configure Git.
-*Clone a GitHub Repository.
-*Create a GitHub Account and Fork the Test Repo.
-*Push to the Forked Repo.
-*Create a Pull Request Against the Original, Previously Cloned Repo.
+* Install and Configure Git.
+* Clone a GitHub Repository.
+* Create a GitHub Account and Fork the Test Repo.
+* Push to the Forked Repo.
+* Create a Pull Request Against the Original, Previously Cloned Repo.
 
-##Usage
-Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command: node index.js
+**##Usage**
+
+Create a command-line application that dynamically generates a README.md from a user's input. The application will be invoked with the following command: 
+node index.js
 The user will be prompted for their GitHub username and other information pertaining to the project the README is for.
 
-##License
+**##License**
+
 Copyright (c) 2020 Celeste J Bembry
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -62,20 +56,21 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##Badges
-Check out the badges hosted by [shields.io](https://shields.io/).
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+**##Badges**
 
-##Contributing
-The [Contributor Covenant](https://www.contributor-covenant.org/) 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%
+[![GitHub Repo](https://img.shields.io/badge/Github-brightgreen.svg?style=flat)](https://github.com/CelesteJBembry/Good-README-Generator)
 
-##Tests
-Go the extra mile and write tests for your application. 
-Then provide examples on how to run them.
+**##Contributing**
 
-##Questions
-* User GitHub name:  cjb
-* User GitHub email: cjb.com
-* User GitHub profile picture true
+[![Contributor Covenant](https://img.shields.io/badge/Contributors-brightgreen.svg?style=flat)](https://www.contributor-covenant.org/)
+
+**##Tests**
+
+[![Test Video](https://img.shields.io/badge/Test-brightgreen.svg?style=flat)](https://drive.google.com/file/d/1RS49TcvwBjF7KbjjOku8xixJtG6l7CiK/view)
+
+**##Questions**
+
+* User GitHub name:  Jane Smith
+* User GitHub email: JaneSmith@gmail.com
+* User GitHub profile picture (T/F):  true
 
